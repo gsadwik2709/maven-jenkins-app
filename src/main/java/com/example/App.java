@@ -3,6 +3,6 @@ package com.example;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello, Jenkins CI/CD!");
-        System.out.println("hello from maven")
+        System.out.println("hello from maven");
     }
 }
